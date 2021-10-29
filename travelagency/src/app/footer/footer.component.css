@@ -1,0 +1,31 @@
+.logo {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+li {
+    list-style-type: none;
+    line-height: 65px;
+    margin: 0%;
+}
+
+a {
+    margin: 0% 0.8% 3%;
+    text-decoration: none;
+    color: white;
+}
+
+hr {
+    margin: -1% 0.8% 0.5%;
+}
+
+footer {
+    text-align: center;
+    padding: 1% 2% 2%;
+    background-color: rgb(66, 233, 66);
+    color: white;
+}
